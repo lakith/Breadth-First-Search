@@ -10,3 +10,16 @@ There are 3 main rules we need to fallow while working with BFS
 ### Following graph is used for the code.
 
 ![alt text](https://github.com/lakith/Breadth-First-Search/blob/main/images/Capture.PNG)
+
+### Output
+
+```sh
+Visited Vertex - A
+Visited Vertex - B
+Visited Vertex - F
+Visited Vertex - G
+Visited Vertex - C
+Visited Vertex - D
+Visited Vertex - H
+Visited Vertex - E
+```
